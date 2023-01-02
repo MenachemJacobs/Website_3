@@ -1,2 +1,2 @@
 # Website_3
-third projecy
+third project
